@@ -1,6 +1,6 @@
 <template>
-    <header class="z-50 top-0 sticky h-16">
-        <div class="w-full container mx-auto flex flex-wrap items-center justify-between py-3 ">
+    <header class="z-50 top-0 sticky h-16 bg-white">
+        <div class="w-full container mx-auto flex flex-wrap items-center justify-between py-3 px-10">
             <h1 class="font-playfair font-black text-2xl">All Greens</h1>
             <ul class="md:flex justify-between items-center md:pt-0 font-inter text-sm">
                 <li v-for="page in pages" :key="page.path" class="inline-block py-2 px-4 text-black">
