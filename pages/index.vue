@@ -11,5 +11,6 @@
         <Featured />
         <Articles />
         <CTA />
+        <Footer />
     </div>
 </template>
