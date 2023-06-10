@@ -9,5 +9,6 @@
         </div>
 
         <Featured />
+        <Articles />
     </div>
 </template>
